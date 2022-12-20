@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class YabseraHomework {
+public class TravelCapablity{
     public static void main(String[] args) {
        
         System.out.println("****** Please Enter your Status as follow ********** ");
